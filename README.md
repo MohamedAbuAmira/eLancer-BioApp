@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![Download .apk file to Android](https://api.flutlab.io/projects/312877/download-apk?target=android-arm64&key=1ar0vntlovj90hyr83t7)
+[Download .apk file to Android](https://api.flutlab.io/projects/312877/download-apk?target=android-arm64&key=1ar0vntlovj90hyr83t7)
 
 ## Getting Started
 
