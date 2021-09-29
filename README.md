@@ -1,7 +1,8 @@
 # eLancer-BioApp
 
-A new Flutter project.
-![My first app with eLancer Project](Screenshot_2021-09-30-00-30-51-242_elancer.bioapp.com.jpg)
+A new Flutter project, My first app with eLancer Project 
+
+![My first app with eLancer Project](Screenshot_2021-09-30-00-30-51-242_elancer.bioapp.com.jpg =500x1000)
 
 [Download .apk file to Android](https://api.flutlab.io/projects/312877/download-apk?target=android-arm64&key=1ar0vntlovj90hyr83t7)
 
